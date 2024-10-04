@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "${workspaceFolder}/venv/Scripts/python.exe",
-    "terminal.integrated.env.windows": {
-        "PYTHONPATH": "${workspaceFolder}/src"
-    }
-}
